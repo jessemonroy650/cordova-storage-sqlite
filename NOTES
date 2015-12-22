@@ -1,0 +1,6 @@
+## NOTES ##
+Date: 2015-12-22
+
+- https://www.npmjs.com/package/cordova-sqlite-storage
+and
+- https://www.npmjs.com/package/cordova-sqlite-plugin (seems simpler)
